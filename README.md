@@ -16,4 +16,4 @@ The SVGs contain vector paths and no external fonts or resources. Inter is licen
 
 Keep the early research status explicit. Do not describe a checkpoint, model advantage, confirmed finding or product release without supporting evidence. Update screenshots alongside visible changes to the public site.
 
-The maintainer's LinkedIn and Telegram links are sourced from the [Trufill organization profile](https://github.com/Trufill). They identify Artem; Trufill's product channels and product email are not NeuroTestix contact channels.
+The maintainer's LinkedIn link comes from the [Trufill organization profile](https://github.com/Trufill). The owner supplied [X @ArtemMalaninDev](https://x.com/ArtemMalaninDev) as the preferred public contact. List each personal profile once; keep the maintainer name as plain text.

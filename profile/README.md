@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://ntx42.com/">Explore ntx42.com</a> ·
   <a href="https://ntx42.com/#method">Inspect the worked example</a> ·
-  <a href="https://t.me/trufill">Talk to the maintainer</a>
+  <a href="#maintainer">About the maintainer</a>
 </p>
 
 [![The NeuroTestix landing, with an original predicate comparison on a dark graphite canvas](https://raw.githubusercontent.com/NeuroTestix/.github/main/profile/assets/desktop.png)](https://ntx42.com/)
@@ -53,8 +53,8 @@ The public website explains the research direction and illustrates the intended 
 
 ## Maintainer
 
-**[Artem Malanin](https://www.linkedin.com/in/artem-malanin-3a9818420)** — founder and developer.
+**Artem Malanin** — founder and developer.
 
-[Telegram @trufill](https://t.me/trufill) · [LinkedIn](https://www.linkedin.com/in/artem-malanin-3a9818420) · [ntx42.com](https://ntx42.com/)
+[X @ArtemMalaninDev](https://x.com/ArtemMalaninDev) · [LinkedIn](https://www.linkedin.com/in/artem-malanin-3a9818420) · [ntx42.com](https://ntx42.com/)
 
 For research discussion and project questions, contact Artem directly.
